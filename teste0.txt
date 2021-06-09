@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ola mundo 
 09/06/2021
+=======
+ola mundo #alterando-tj
+>>>>>>> bd3a1f5598dfae8904285d630966edf968387d6c
